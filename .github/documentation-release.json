@@ -1,0 +1,22 @@
+{
+  "repository": "alexandroit/stackline-types-jest",
+  "packages": [
+    {
+      "name": "@stackline/types-jest",
+      "path": "README.md",
+      "version": "1.0.1",
+      "baselineVersion": "1.0.0",
+      "keywords": [
+        "stackline",
+        "npm-package",
+        "types-jest",
+        "typescript"
+      ],
+      "homepage": "https://alexandro.net/docs/vanilla/types-jest/",
+      "baselineTarball": "https://registry.npmjs.org/@stackline/types-jest/-/types-jest-1.0.0.tgz",
+      "baselineIntegrity": "sha512-4uPh/aEASKDLhTmJj2CgVkYAg63YL9RvXt7eWu6E1hisx8Z7QBGpmvrW97qjxx91M+wOY3p5Q8F65/J7F8Eq+Q==",
+      "expectedSha512": "825898511b8469f0af6763eeb62596a31440755604700e3aa3ab516dcfa846abee72e8b108c1364e43bf656f26a19c6b5384b7bdc1670ae39ff8ef34164a36e4",
+      "tag": "docs-stackline-types-jest-v1.0.1"
+    }
+  ]
+}
