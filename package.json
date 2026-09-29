@@ -1,8 +1,8 @@
 {
   "name": "@stackline/types-jest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript definitions for jest",
-  "homepage": "https://github.com/alexandroit/stackline-types-jest#readme",
+  "homepage": "https://alexandro.net/docs/vanilla/types-jest/",
   "license": "MIT",
   "contributors": [
     {
@@ -86,7 +86,7 @@
       "url": "https://github.com/antoinebrault"
     },
     {
-      "name": "Gregor Stama\u0107",
+      "name": "Gregor Stamać",
       "githubUsername": "gstamac",
       "url": "https://github.com/gstamac"
     },
@@ -101,7 +101,7 @@
       "url": "https://github.com/quassnoi"
     },
     {
-      "name": "Mario Beltr\u00e1n Alarc\u00f3n",
+      "name": "Mario Beltrán Alarcón",
       "githubUsername": "Belco90",
       "url": "https://github.com/Belco90"
     },
@@ -166,5 +166,11 @@
     "typescript": "5.9.3",
     "typescript-min": "npm:typescript@5.4.5",
     "@types/node": "18.11.18"
-  }
+  },
+  "keywords": [
+    "stackline",
+    "npm-package",
+    "types-jest",
+    "typescript"
+  ]
 }
